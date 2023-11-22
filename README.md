@@ -2,7 +2,7 @@
                                           A passionate Web developer and UI/UX Designer
 
 # 💫 About Me:
- 🔭 I’m currently working on Full stack application<br>- 🌱 I’m currently learning MERN , Next JS, DSA<br>- 💬 Ask me about React JS, UI/UX Design, Frontend development<br>- 📫 How to reach me taniyayadav882@gmail.com<br>- 👨‍💻 All of my projects are available at https://github.com/taniya23Y<br>- ⚡ Fun fact I think I am funny
+-🔭 I’m currently working on Full stack application<br>- 🌱 I’m currently learning MERN , Next JS, DSA<br>- 💬 Ask me about React JS, UI/UX Design, Frontend development<br>- 📫 How to reach me taniyayadav882@gmail.com<br>- 👨‍💻 All of my projects are available at https://github.com/taniya23Y<br>- ⚡ Fun fact I think I am funny
 
   <img align="center" src="https://i.pinimg.com/564x/d0/4c/a6/d04ca64de762aa5d38f7e009bb0c1353.jpg" height="180em" />
 
