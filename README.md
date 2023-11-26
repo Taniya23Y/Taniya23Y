@@ -4,7 +4,7 @@
 # 💫 About Me:
 -🔭 I’m currently working on Full stack application<br>- 🌱 I’m currently learning MERN , Next JS, DSA<br>- 💬 Ask me about React JS, UI/UX Design, Frontend development<br>- 📫 How to reach me taniyayadav882@gmail.com<br>- 👨‍💻 All of my projects are available at https://github.com/taniya23Y<br>- ⚡ Fun fact I think I am funny
 
-  <img align="center" src="https://i.pinimg.com/564x/d0/4c/a6/d04ca64de762aa5d38f7e009bb0c1353.jpg" height="180em" />
+   <img align="center" src="https://i.pinimg.com/564x/d0/4c/a6/d04ca64de762aa5d38f7e009bb0c1353.jpg" height="180em" />
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/23taniyayadav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tranquil.taniya_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taniya-yadav-9a4282253/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/23taniya/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/FairyTaniya?s=09) 
