@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taniya Yadav</h1>
 <h3 align="center">A passionate Web developer and UI/UX Designer</h3>
-[![](https://visitcount.itsvg.in/api?id=Taniya23Y&icon=0&color=12)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Taniya23Y&icon=0&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
 -🔭 I’m currently working on Full stack application<br>- 🌱 I’m currently learning MERN , Next JS, DSA<br>- 💬 Ask me about React JS, UI/UX Design, Frontend development<br>- 📫 How to reach me taniyayadav882@gmail.com<br>- 👨‍💻 All of my projects are available at https://github.com/taniya23Y<br>- ⚡ Fun fact I think I am funny
 
@@ -34,6 +34,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Taniya23Y&icon=0&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
