@@ -17,9 +17,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Taniya23Y&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taniya23Y&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taniya23Y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+-->
 
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Taniya23Y">
@@ -29,9 +32,11 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Taniya23Y&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taniya23Y&theme=2077" height="180em" />
 </div>
-
+-->
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
