@@ -6,7 +6,7 @@
 
 - 🔭  I’m currently working on `Full stack application`  
 - 🌱 I’m currently learning **Gen AI, LLM, Java, DSA**  
-- 💬 Ask me about `Nodejs`, `Javascript`, `React JS`, `UI Design`, `Frontend/Backend development`  
+- 💬 Ask me about `Nodejs`, `Javascript`, `React JS`, `UI Design`, `Full-stack development`  
 - 📫 Reach me at **taniyayadav882@gmail.com**  
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/taniya23Y)  
 - ⚡ Fun fact - I Love **Coding + Eating + Repeating ✨**  
